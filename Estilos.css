@@ -7,11 +7,9 @@ body{
 .header{
     color: #32b9cd; 
     border-bottom: solid 3px #32b9cd;
-    /* border: solid 3px green; */
 }
 
 .container{
-    /* border: solid 3px yellow; */
     width: 80%;
     margin: auto;
 }
